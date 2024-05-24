@@ -1,0 +1,27 @@
+﻿@model Chef
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-4">
+                <label class="form-label" asp-for="Name" >FullName</label>
+                <input class="form-control" asp-for="Name">
+
+                <span asp-validation-for="Name" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label class="form-label" asp-for="Description">Position</label>
+                <input class="form-control" asp-for="Description">
+                <span asp-validation-for="Description" style="color:red"></span>
+            </div>
+            
+            <div class="mb-3 col-md-4">
+                <label class="form-label" asp-for="ImgFile">ImgFile</label>
+                <input class="form-control" asp-for="ImgFile">
+                <span asp-validation-for="ImgFile" style="color:red"></span>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

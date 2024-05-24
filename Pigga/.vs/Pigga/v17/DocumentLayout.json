@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\pigga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:pigga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\migrations\\20240524050956_createchefusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:migrations\\20240524050956_createchefusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|c:\\users\\ca.r214.15\\desktop\\bilet-6-sadiq-meherremli\\pigga\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{440F8499-8FBF-4ADA-9671-FC7E50360C92}|Pigga.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:24:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:35:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:24:27.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwDsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:04:27.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Models\\Chef.cs",
+              "RelativeDocumentMoniker": "Models\\Chef.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Models\\Chef.cs",
+              "RelativeToolTip": "Models\\Chef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:25:03.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:47:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:02:30.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAvwFsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:24:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:11:17.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAADgv0MAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:10:43.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChefController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ChefController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Controllers\\ChefController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ChefController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:39:47.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACcBAAAAAAAAAAAIwEABAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:08:59.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pigga",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Pigga.csproj",
+              "RelativeDocumentMoniker": "Pigga.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Pigga.csproj",
+              "RelativeToolTip": "Pigga.csproj",
+              "ViewState": "AQIAABsAAAAAAAAAAAAhwDUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T04:28:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:45:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewModels\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewModels\\RegisterVm.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:47:21.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewModels\\LoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ViewModels\\LoginVm.cs",
+              "RelativeToolTip": "ViewModels\\LoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:47:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:34:03.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:08:42.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\DAl\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAl\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\DAl\\AppDbContext.cs",
+              "RelativeToolTip": "DAl\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:28:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Helpers\\Account\\UserRole.cs",
+              "RelativeDocumentMoniker": "Helpers\\Account\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Helpers\\Account\\UserRole.cs",
+              "RelativeToolTip": "Helpers\\Account\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:27:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240524050956_createChefUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Migrations\\20240524050956_createChefUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524050956_createChefUserTable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Migrations\\20240524050956_createChefUserTable.cs",
+              "RelativeToolTip": "Migrations\\20240524050956_createChefUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:09:56.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Chef\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:34:18.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:28:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:25:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:11:04.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:11:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T05:07:22.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:44:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:42:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.15\\Desktop\\bilet-6-Sadiq-Meherremli\\Pigga\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:37:14.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
